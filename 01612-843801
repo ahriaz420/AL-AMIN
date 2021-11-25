@@ -340,7 +340,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
 
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 
-https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MaxHD.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8?token=67fd365d67a61747a14bb945f68cbce6def18837-dc18b798d57784e0f4a6647d492d18ef-1637880474-1637869674&remote=94.126.23.10
 
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
