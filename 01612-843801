@@ -236,7 +236,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
 
-https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8?token=8764fa004917b99b9710ffb21e6fb492fbd8ad5c-97cb8d805f8373ec6a71845a2e678290-1637879589-1637868789&remote=94.126.23.10
 
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/192.m3u8
 
