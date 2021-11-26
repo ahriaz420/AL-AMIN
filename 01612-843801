@@ -719,7 +719,7 @@ https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Bangla
 
-https://last.gcdn.co/IND415/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8?token=01f9a52bad998166996a6617b37562cdf600069d-08f9d8b89839c8fde3c8e25b509d608e-1637909113-1637898313&remote=103.210.58.238
 
 #http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
 
