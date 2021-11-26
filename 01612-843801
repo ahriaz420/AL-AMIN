@@ -284,6 +284,7 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
 
 http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8?token=e8d20d11f525d290bc5fea89fd5fb34dbc9eabea-d40eb612863bbf9b759a09a9f62804dd-1637908568-1637897768&remote=103.210.58.238
+https://z5ams.akamaized.net/zeebanglahd/tracks-v4a1/hdntl=exp=1638009624~acl=%2f*~data=hdntl~hmac=4fa41a111a90de332da429ab7a63eb96cbf31de65e1153f7a33662c944ed35c9/mono.m3u8
 
 #http://mu03ye.wanicelife.com:8880/live/YALM4649/y6q3fhltq/55319.m3u8
 
@@ -742,6 +743,7 @@ https://ch.iptvmate.net/5e936cdb655d2d10063e4b9a.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentery", Discovery Channel Bengali
 
 http://65.2.4.240/jioo.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+https://live.bdtv.xyz:2096/token/discovery/chunks.m3u8?nimblesessionid=2647111&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMSAxMDozNDo1NiBBTSZoYXNoX3ZhbHVlPWJsbW9HVFRKQTVFN1oxOThvd09qNlE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Documentery",Discovery Hindi
 
