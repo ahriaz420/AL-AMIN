@@ -990,6 +990,7 @@ http://bciptv.net:8082/it-care-gtv/index.m3u8?token=d992699a783a06fb45d7e9f332e8
 
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 http://bciptv.net:8082/tsports/index.m3u8?token=199b7a73b93d90220d4062365c14ed19f61cfde9-2437cf305249c0886e175e639bd20754-1637931998-1637921198
+http://stream.amrbd.com:8082/Local-Sports/index.m3u8?token=7d79027749b003d41ec7e4ae83cef06f8b1104d3-ef0bb3903558b9ec8b776642004b7750-1637939018-1637928218
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
 
