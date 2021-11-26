@@ -256,13 +256,17 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
 
-http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8?token=8764fa004917b99b9710ffb21e6fb492fbd8ad5c-97cb8d805f8373ec6a71845a2e678290-1637879589-1637868789&remote=94.126.23.10
 
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/192.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/192.m3u8
+http://opplex.tv:8080/live/993300/993300/167617.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8?token=8764fa004917b99b9710ffb21e6fb492fbd8ad5c-97cb8d805f8373ec6a71845a2e678290-1637879589-1637868789&remote=94.126.23.10l
+
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
 
 http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
 
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
