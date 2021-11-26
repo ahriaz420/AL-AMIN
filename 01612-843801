@@ -982,10 +982,12 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV
 
 http://103.109.56.116/live/skyfeed1001/index.m3u8
+http://bciptv.net:8082/it-care-gtv/index.m3u8?token=d992699a783a06fb45d7e9f332e8d4d94394bc87-fc6024f5e4901a1d191e957f56d9d4c7-1637931970-1637921170
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+http://bciptv.net:8082/tsports/index.m3u8?token=199b7a73b93d90220d4062365c14ed19f61cfde9-2437cf305249c0886e175e639bd20754-1637931998-1637921198
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
 
