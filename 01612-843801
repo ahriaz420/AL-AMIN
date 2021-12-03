@@ -1300,13 +1300,13 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA",Star Jalsha
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN_BANGLA",Star Jalsha
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
 http://208.86.19.21:80/908.stream/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN BANGLA",Zee Bangla
+#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN_BANGLA",Zee Bangla
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://208.86.19.21:80/906.stream/index.m3u8
 
@@ -4410,7 +4410,7 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="FASHION" tvg-logo="https://tv-kanali.online/wp-content/uploads/2019/03/luxury-tv.jpg",Luxury
+#EXTINF:-1 group-title="OTHER'S" tvg-logo="https://tv-kanali.online/wp-content/uploads/2019/03/luxury-tv.jpg",Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
@@ -4430,12 +4430,12 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace Tv Bangla
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace Tv Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 
 
