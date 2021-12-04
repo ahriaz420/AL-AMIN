@@ -3800,6 +3800,9 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 *****KIDS*****
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" tvg-name="Nick"  group-title=KIDS",Nick Bangla
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=1200&e=.m3u8
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016",Rongeen tv
 http://14.199.164.20:4001/play/a0m1/index.m3u8
