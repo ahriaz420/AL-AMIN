@@ -13,17 +13,14 @@
 
 **** AL-AMIN ****
 
-#EXTINF: -1 tvg-logo="https://www-mykhel-com.cdn.ampproject.org/v/s/www.mykhel.com/amphtml/cricket/bbl-2021-22-big-bash-league-schedule-squads-ist-time-live-telecast-live-streaming-175563.html?amp_js_v=0.1&usqp=mq331AQCKAE%3D#="AL-AMIN",BIG BASH
-http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=.m3u8
-
 
 
 *****BANGLADESHI*****
 
 
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://imgur.com/H9qgGSc.png",BTV
-http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOowfIW5K5IXsIwpu6NSHwNjP4q07V44eEQ&usqp=CAU",BIG BASH
+http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="http://i.imgur.com/kuAMfpW.png",BTV
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/39
 
