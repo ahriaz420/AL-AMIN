@@ -20,7 +20,7 @@
 
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOowfIW5K5IXsIwpu6NSHwNjP4q07V44eEQ&usqp=CAU",BIG BASH
-http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=.m3u8
+http://208.86.19.21:80/740.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="http://i.imgur.com/kuAMfpW.png",BTV
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/39
 
