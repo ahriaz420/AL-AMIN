@@ -40,16 +40,18 @@ https://content.discoveryftp.net/Movies/Dubbed/Bangla/Titanic/Titanic%20(1997)%2
 
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/gallery/TaYyEDr" group-title="AL-AMIN", Live Event
+#EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2021/01/fancode-logo..png" group-title="AL-AMIN", FanCode
 
-https://content.discoveryftp.net/Movies/Dubbed/Bangla/Titanic/Titanic%20(1997)%20Bangla%20Dual%20Audio%201280p%20ORG-Bluray%20x265%20AAC%202.1GB%20(Exclusive%20ON-GnBD24.com).mp4
-
-
+https://ranapk.ml/FanCode.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/gallery/TaYyEDr" group-title="AL-AMIN",SonyLIV
 
-https://ranapk.ml/sony_Liv-1.m3u8
+
+#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN",SonyLIV
+
+https://manik-iptv.ml/sonyliv.m3u8
+
+#https://ranapk.ml/sony_Liv-1.m3u8
 
 
 
@@ -65,7 +67,7 @@ https://ranapk.ml/sony_Liv-1.m3u8
 
 
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://imgur.com/H9qgGSc.png",BTV
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736",BTV
 
 http://103.106.2.149:13456/btv.m3u8
 
@@ -107,7 +109,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
-http://103.106.2.149:13456/sangsad.m3u8
+#http://103.106.2.149:13456/sangsad.m3u8
 
 
 
@@ -388,11 +390,13 @@ http://103.149.130.122:8089/10/index.m3u8
 
 
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png",My TV
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png",My TV HD
+
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #https://last.gcdn.co/IND439/index.m3u8
 
-https://bdcast-live2.b-cdn.net/jago/0/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?nimblesessionid=329243527&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDQ6MDk6MzEgUE0maGFzaF92YWx1ZT1NT2xHZTV5SWl4OFZWRWtEWGVUdVBRPT0mdmFsaWRtaW51dGVzPTYw
+#https://bdcast-live2.b-cdn.net/jago/0/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?nimblesessionid=329243527&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDQ6MDk6MzEgUE0maGFzaF92YWx1ZT1NT2xHZTV5SWl4OFZWRWtEWGVUdVBRPT0mdmFsaWRtaW51dGVzPTYw
 
 
 
@@ -1229,7 +1233,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/66061
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/l10dPx4.png",Star Jalsha HD
 
-http://live.flixhub.net/hls/starjalsha.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
+
+#http://live.flixhub.net/hls/starjalsha.m3u8
 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2857
 
@@ -1255,7 +1261,9 @@ http://live.flixhub.net/hls/starjalsha.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN_BANGLA",Zee Bangla HD
 
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
+
+#http://live.flixhub.net/hls/zeebanglahd.m3u8
 
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
 
@@ -1292,11 +1300,11 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYpKKRjGrVPUqk-f-voE5LeRP9ADX_uGHbg&usqp=CAU",Akash Aath
 
-https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
+#https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 
 #http://jo123.biz/jweb/m3u8.php?c=Aakaash_bangla&q=800&e=junk.m3u8
 
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
 
 
 
@@ -1329,7 +1337,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
 
-http://live.flixhub.net/hls/sunbangla.m3u8
+http://103.55.144.46/hls/sunbangla.m3u8
 
 
 
@@ -1339,7 +1347,11 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/hAmFkQB.jpg",Jalsha Movies HD
 
-http://live.flixhub.net/hls/jalshamovies.m3u8
+http://103.55.144.46/hls/jalshamovies.m3u8
+
+#http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=ce56b26920ee4830387c0955a42209fa28b18a86-531d1bb5e7aa5dcc804414081d0d3462-1648667840-1648657040
+
+#http://live.flixhub.net/hls/jalshamovies.m3u8
 
 
 
@@ -1349,13 +1361,17 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/M6GyIvI.png",Zee Bangla Cinema
 
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
 
 #https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
+
+#http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a5e8f122bd53cc1cd47ee08888ee92716aeafa1b-306240bcb34a045be9dee92c2b4ac9f9-1648664937-1648654137
+
+http://103.55.144.46/hls/zeebanglahd.m3u8
 
 
 
@@ -1581,7 +1597,9 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN_HINDI" tvg-logo="https://i.imgur.com/T2c6PjU.jpg",Dhinchaak
 
-http://103.166.253.222/hls/dhin.m3u8
+http://103.55.144.46/hls/dhin.m3u8
+
+#http://103.166.253.222/hls/dhin.m3u8
 
 #http://14.199.164.20:4001/play/a0o5/index.m3u8
 
@@ -1726,7 +1744,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/218
 
 #EXTINF:-1 group-title="INDIAN_HINDI" tvg-logo="https://i.imgur.com/qp6Hy4N.jpg",And Pictures HD
 
-http://live.flixhub.net/hls/andpictures.m3u8
+http://103.55.144.46/hls/andpictures.m3u8
+
+#http://live.flixhub.net/hls/andpictures.m3u8
 
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUF77MHtEYNTNJrMzWOinYA/ts
 
@@ -1962,7 +1982,11 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/308
 
 #EXTINF:-1 group-title="INDIAN_HINDI" tvg-logo="https://i.imgur.com/MmnLQ5D.jpg",Wow Cinema
 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/311
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/311
+
+http://stream.amrbd.com:8082/Wow-Cinema/tracks-v1a1/mono.m3u8?token=a403a08c517b283ac95d786508d5fa479e24a210-bdb2e9191d58b260f67a920c96e21957-1648668396-1648657596
+
+
 
 
 
@@ -2434,9 +2458,13 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 #http://jo123.biz/jweb/m3u8.php?c=DOCUMENTARY_Channel_Bengali&q=800&e=.m3u8
 
-http://live.flixhub.net/hls/discovery.m3u8
+#http://live.flixhub.net/hls/discovery.m3u8
 
 #https://last.gcdn.co/IND415/tracks-v1a1/mono.m3u8
+
+http://103.55.144.46/hls/discovery.m3u8
+
+
 
 
 
@@ -2452,7 +2480,11 @@ http://live.flixhub.net/hls/discovery.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/127
 
-http://live.flixhub.net/hls/ngohd.m3u8
+#http://live.flixhub.net/hls/ngohd.m3u8
+
+http://103.55.144.46/hls/ngohd.m3u8
+
+
 
 
 
@@ -2464,7 +2496,9 @@ http://live.flixhub.net/hls/ngohd.m3u8
 
 #http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
-http://live.flixhub.net/hls/travelxp.m3u8
+#http://live.flixhub.net/hls/travelxp.m3u8
+
+http://103.55.144.46/hls/travelxp.m3u8
 
 
 
@@ -2472,7 +2506,9 @@ http://live.flixhub.net/hls/travelxp.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/ciQs4RP.png",Nat Geo Wild
 
-https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+http://103.55.144.46/hls/wild.m3u8
+
+#https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/136
 
@@ -2608,7 +2644,9 @@ https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w10845465
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/SEvBqtE.jpg",Animal Planet
 
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
+
+#http://live.flixhub.net/hls/animalplanent.m3u8
 
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/1643.m3u8
 
@@ -3209,9 +3247,7 @@ http://14.199.164.20:4001/play/a0pa/index.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/x9t6UGB.png",Sony Pix HD
 
-http://live.flixhub.net/hls/sonypixhd.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
+http://103.55.144.46/hls/sonypixhd.m3u8
 
 
 
@@ -3220,7 +3256,9 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",Star Movies HD
 
-http://live.flixhub.net/hls/starmovies.m3u8
+http://103.55.144.46/hls/starmovies.m3u8
+
+#http://live.flixhub.net/hls/starmovies.m3u8
 
 #https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 
@@ -3235,7 +3273,7 @@ http://live.flixhub.net/hls/starmovies.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/7JTh1bc.png",Star World HD
 
-http://live.flixhub.net/hls/star-worldhd.m3u8
+http://103.55.144.46/hls/star-worldhd.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/128
 
@@ -3249,9 +3287,11 @@ http://live.flixhub.net/hls/star-worldhd.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",HBO
 
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+
 #https://gratismkctv.net/film/hbo.m3u8
 
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
@@ -3260,7 +3300,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/acn9s5i.png",Movies Now
 
-http://live.flixhub.net/hls/movies-now.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
+
+#http://live.flixhub.net/hls/movies-now.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/181
 
@@ -3284,7 +3326,9 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CineMax
 
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/221
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/221
 
 
 
@@ -4957,7 +5001,9 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
 #http://live.flixhub.net/hls/cn.m3u8
 
-http://103.166.253.222/hls/cn.m3u8
+#http://103.166.253.222/hls/cn.m3u8
+
+http://103.55.144.46/hls/cn.m3u8
 
 
 
@@ -4967,7 +5013,9 @@ http://103.166.253.222/hls/cn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick (Bangla)
 
-http://103.149.130.122:8089/55/index.m3u8
+http://103.55.144.46/hls/nick.m3u8
+
+#http://103.149.130.122:8089/55/index.m3u8
 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1291
 
@@ -4981,7 +5029,9 @@ http://103.149.130.122:8089/55/index.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/332
 
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPZ191R9deTeEwU_AC1sOg/ts
+#http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPZ191R9deTeEwU_AC1sOg/ts
+
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34494?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 
 
@@ -4992,7 +5042,9 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsQPZ191R9deTeEwU_AC1sOg/ts
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery KIDS (Hindi)
 
-http://live.flixhub.net/hls/dis-kid.m3u8
+http://103.55.144.46/hls/dis-kid.m3u8
+
+#http://live.flixhub.net/hls/dis-kid.m3u8
 
 #https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/229
@@ -5022,7 +5074,9 @@ http://live.flixhub.net/hls/pogo.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016",Rongeen tv
 
-http://14.199.164.20:4001/play/a0m1/index.m3u8
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
+#http://14.199.164.20:4001/play/a0m1/index.m3u8
 
 
 
@@ -6592,9 +6646,7 @@ http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7m8LXs0.jpg",Star Sports Select 2 HD
 
-http://live.flixhub.net/hls/select2.m3u8
-
-#http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
+http://103.55.144.46/hls/select2.m3u8
 
 
 
@@ -6650,7 +6702,10 @@ https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/GW4jg6h.jpg",Bein Sports 1
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
+
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1010.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
 
 
 
@@ -6659,6 +6714,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/YzoLesB.jpg",Bein Sports 2
+
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
 
 
@@ -6669,7 +6725,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ScIJeAd.jpg",Bein Sports 3
 
-https://ib.qqkkqqk.com/live/ch_5.m3u8
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1009.m3u8
+
+#https://ib.qqkkqqk.com/live/ch_5.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/154
 
@@ -6680,7 +6738,10 @@ https://ib.qqkkqqk.com/live/ch_5.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5C9JUlr.jpg",Bein Sports 4
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
+
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1008.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
 
 
 
@@ -6711,7 +6772,9 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports
 
-http://103.205.133.107:80/hdmi
+http://103.149.130.122:8089/102/index.m3u8
+
+#sony enter_http://103.205.133.107:80/hdmi
 
 
 
@@ -6720,10 +6783,11 @@ http://103.205.133.107:80/hdmi
 
 
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV HD
 
-#http://103.149.130.122:8089/1/index.m3u8
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&user=748e920475c8167decb7565f975b6468
+http://103.149.130.122:8089/1/index.m3u8
+
+#http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=763e8c4891c2d8d255ca01be2099240046059d63-e39c9a0d3abecd2fcc2e1fa3e1e1c126-1648664732-1648653932
 
 
 
@@ -6755,7 +6819,10 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/QENIkSv.jpg",Ten Sports
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
+
+http://103.55.144.46/hls/ten.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 
 
 
@@ -6764,7 +6831,10 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/xvduUBO.png",T20 World Cup
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
+
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&user=748e920475c8167decb7565f975b6468
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
 
 
 
@@ -6773,7 +6843,14 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MZItawT.png",Sky Cricket HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/x2Pz8Wa.jpg",SkySports Main
+
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/x2Pz8Wa.jpg",SkySports Main
+
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/175
 
 
