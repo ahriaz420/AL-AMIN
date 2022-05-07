@@ -1233,7 +1233,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/66061
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/l10dPx4.png",Star Jalsha HD
 
-http://103.55.144.46/hls/starjalsha.m3u8
+http://103.167.190.250/hls/starjalsha.m3u8
 
 #http://live.flixhub.net/hls/starjalsha.m3u8
 
@@ -1261,7 +1261,7 @@ http://103.55.144.46/hls/starjalsha.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="INDIAN_BANGLA",Zee Bangla HD
 
-http://103.55.144.46/hls/zeebanglahd.m3u8
+http://103.167.190.250/hls/zeebanglahd.m3u8
 
 #http://live.flixhub.net/hls/zeebanglahd.m3u8
 
@@ -1337,7 +1337,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/PW9hRDa.png",Sun Bangla
 
-http://103.55.144.46/hls/sunbangla.m3u8
+http://103.167.190.250/hls/sunbangla.m3u8
 
 
 
@@ -1347,7 +1347,7 @@ http://103.55.144.46/hls/sunbangla.m3u8
 
 #EXTINF:-1 group-title="INDIAN_BANGLA" tvg-logo="https://i.imgur.com/hAmFkQB.jpg",Jalsha Movies HD
 
-http://103.55.144.46/hls/jalshamovies.m3u8
+http://103.167.190.250/hls/jalshamovies.m3u8
 
 #http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=ce56b26920ee4830387c0955a42209fa28b18a86-531d1bb5e7aa5dcc804414081d0d3462-1648667840-1648657040
 
@@ -1371,7 +1371,7 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 
 #http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=a5e8f122bd53cc1cd47ee08888ee92716aeafa1b-306240bcb34a045be9dee92c2b4ac9f9-1648664937-1648654137
 
-http://103.55.144.46/hls/zeebanglahd.m3u8
+http://103.167.190.250/hls/zeebanglahd.m3u8
 
 
 
@@ -1597,7 +1597,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN_HINDI" tvg-logo="https://i.imgur.com/T2c6PjU.jpg",Dhinchaak
 
-http://103.55.144.46/hls/dhin.m3u8
+http://103.167.190.250/hls/dhin.m3u8
 
 #http://103.166.253.222/hls/dhin.m3u8
 
@@ -1744,7 +1744,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/218
 
 #EXTINF:-1 group-title="INDIAN_HINDI" tvg-logo="https://i.imgur.com/qp6Hy4N.jpg",And Pictures HD
 
-http://103.55.144.46/hls/andpictures.m3u8
+http://103.167.190.250/hls/andpictures.m3u8
 
 #http://live.flixhub.net/hls/andpictures.m3u8
 
@@ -2462,7 +2462,7 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 #https://last.gcdn.co/IND415/tracks-v1a1/mono.m3u8
 
-http://103.55.144.46/hls/discovery.m3u8
+http://103.167.190.250/hls/discovery.m3u8
 
 
 
@@ -2482,7 +2482,7 @@ http://103.55.144.46/hls/discovery.m3u8
 
 #http://live.flixhub.net/hls/ngohd.m3u8
 
-http://103.55.144.46/hls/ngohd.m3u8
+http://103.167.190.250/hls/ngohd.m3u8
 
 
 
@@ -2498,7 +2498,7 @@ http://103.55.144.46/hls/ngohd.m3u8
 
 #http://live.flixhub.net/hls/travelxp.m3u8
 
-http://103.55.144.46/hls/travelxp.m3u8
+http://103.167.190.250/hls/travelxp.m3u8
 
 
 
@@ -2506,7 +2506,7 @@ http://103.55.144.46/hls/travelxp.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/ciQs4RP.png",Nat Geo Wild
 
-http://103.55.144.46/hls/wild.m3u8
+http://103.167.190.250/hls/wild.m3u8
 
 #https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
@@ -2644,7 +2644,7 @@ https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w10845465
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/SEvBqtE.jpg",Animal Planet
 
-http://103.55.144.46/hls/animalplanent.m3u8
+http://103.167.190.250/hls/animalplanent.m3u8
 
 #http://live.flixhub.net/hls/animalplanent.m3u8
 
@@ -3247,7 +3247,7 @@ http://14.199.164.20:4001/play/a0pa/index.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/x9t6UGB.png",Sony Pix HD
 
-http://103.55.144.46/hls/sonypixhd.m3u8
+http://103.167.190.250/hls/sonypixhd.m3u8
 
 
 
@@ -3256,7 +3256,7 @@ http://103.55.144.46/hls/sonypixhd.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",Star Movies HD
 
-http://103.55.144.46/hls/starmovies.m3u8
+http://103.167.190.250/hls/starmovies.m3u8
 
 #http://live.flixhub.net/hls/starmovies.m3u8
 
@@ -3273,7 +3273,7 @@ http://103.55.144.46/hls/starmovies.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/7JTh1bc.png",Star World HD
 
-http://103.55.144.46/hls/star-worldhd.m3u8
+http://103.167.190.250/hls/star-worldhd.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/128
 
@@ -3300,7 +3300,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="HOLLYWOOD" tvg-logo="https://i.imgur.com/acn9s5i.png",Movies Now
 
-http://103.55.144.46/hls/movies-now.m3u8
+http://103.167.190.250/hls/movies-now.m3u8
 
 #http://live.flixhub.net/hls/movies-now.m3u8
 
@@ -5003,7 +5003,7 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
 #http://103.166.253.222/hls/cn.m3u8
 
-http://103.55.144.46/hls/cn.m3u8
+http://103.167.190.250/hls/cn.m3u8
 
 
 
@@ -5013,7 +5013,7 @@ http://103.55.144.46/hls/cn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick (Bangla)
 
-http://103.55.144.46/hls/nick.m3u8
+http://103.167.190.250/hls/nick.m3u8
 
 #http://103.149.130.122:8089/55/index.m3u8
 
@@ -5042,7 +5042,7 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34494?play_token=nBTQAmxyOM&toke
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery KIDS (Hindi)
 
-http://103.55.144.46/hls/dis-kid.m3u8
+http://103.167.190.250/hls/dis-kid.m3u8
 
 #http://live.flixhub.net/hls/dis-kid.m3u8
 
@@ -6554,7 +6554,7 @@ https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/H1Zhd0Z.png",Sony Six
 
-http://103.55.144.46/hls/sonysix.m3u8
+http://103.167.190.250/hls/sonysix.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
 
@@ -6566,7 +6566,7 @@ http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/8R9g1yY.jpg",Sony Ten 1
 
-http://103.55.144.46/hls/sonyten1.m3u8
+http://103.167.190.250/hls/sonyten1.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/144
 
@@ -6578,7 +6578,7 @@ http://103.55.144.46/hls/sonyten1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lKa6ITU.jpg",Sony Ten 2
 
-http://103.55.144.46/hls/sonyten2.m3u8
+http://103.167.190.250/hls/sonyten2.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/134
 
@@ -6590,7 +6590,7 @@ http://103.55.144.46/hls/sonyten2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CIPt60Y.png",Sony Ten 3
 
-http://103.55.144.46/hls/sonyten3.m3u8
+http://103.167.190.250/hls/sonyten3.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/126
 
@@ -6602,7 +6602,7 @@ http://103.55.144.46/hls/sonyten3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",Star Sports 1 HD
 
-#http://103.55.144.46/hls/starsports1.m3u8
+#http://103.167.190.250/hls/starsports1.m3u8
 
 http://103.149.130.122:8089/25/index.m3u8
 
@@ -6616,7 +6616,7 @@ http://103.149.130.122:8089/25/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/bJhMpeC.jpg",Star Sports 2 HD
 
-http://103.55.144.46/hls/starsports2.m3u8
+http://103.167.190.250/hls/starsports2.m3u8
 
 #http://103.166.253.222/hls/starsports2.m3u8
 
@@ -6632,7 +6632,7 @@ http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NnqHQhU.png",Star Sports Select 1 HD
 
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 
 #http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
@@ -6646,7 +6646,7 @@ http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7m8LXs0.jpg",Star Sports Select 2 HD
 
-http://103.55.144.46/hls/select2.m3u8
+http://103.167.190.250/hls/select2.m3u8
 
 
 
@@ -6820,7 +6820,7 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/QENIkSv.jpg",Ten Sports
 
-http://103.55.144.46/hls/ten.m3u8
+http://103.167.190.250/hls/ten.m3u8
 
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 
